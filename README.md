@@ -12,7 +12,7 @@ This project is a simple Discord bot built using Node.js and the discord.js libr
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/chitsimran/songh.git
    ```
 2. Navigate to the project directory:
    ```
@@ -30,7 +30,6 @@ To start the bot, run the following command:
 node src/index.js
 ```
 
-Make sure to replace `<repository-url>` with the actual URL of your repository.
 
 ## Contributing
 
